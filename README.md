@@ -1,5 +1,7 @@
 ### Hi, I'm Shiven 👋
 
+🌐 **[shivenlakhanpal.vercel.app](https://shivenlakhanpal.vercel.app)** · my portfolio, with the full story behind each project (and a few photos of my life outside the terminal)
+
 Third-year CS student at the University of Alberta (AI specialization). I build robotics and ML things that have to survive real hardware and real data, and I'm looking for **Summer 2027 internships** in robotics, perception, embedded, or applied ML.
 
 Right now I'm on **ARVP**, U of A's autonomous robotics team. Before that I did perception and path planning on **SPEAR**'s competition rover.

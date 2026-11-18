@@ -11,7 +11,7 @@ Right now I'm on **ARVP**, U of A's autonomous robotics team. Before that I did 
 | Project | What it is | Built with |
 |---|---|---|
 | [**Ouroboros**](https://github.com/shivenlak/Ouroboros) | natHacks 2026: drone detections sent over dual LoRa + ESP-NOW radios. I wrote the firmware and reliability layer. 200/200 alerts delivered, ~20 ms round trip. | C++, ESP32, LoRa, Python, YOLOv8 |
-| [**ecarbon**](https://github.com/shivenlak/EmbodiedCarbon) | Built World Challenge semi-finalist: building plan PDFs in, traceable embodied-carbon estimate out. [Live](https://ecarbon.fly.dev) | Python, FastAPI, React |
+| [**ecarbon**](https://github.com/shivenlak/EmbodiedCarbon) | Built World Challenge finalist: building plan PDFs in, traceable embodied-carbon estimate out. [Live](https://ecarbon.fly.dev) | Python, FastAPI, React |
 | [**MarsWalker**](https://github.com/shivenlak/MarsWalker) | NASA Space Apps 2026: plan and walk a real EVA on Mars terrain with A*, checked against Curiosity's actual drives. [Play it](https://shivenlak.github.io/MarsWalker/) | TypeScript, Three.js |
 | [**FireCal**](https://github.com/shivenlak/FireForce) | NASA Space Apps 2026: 25 years of MODIS + VIIRS fire data harmonized into one calendar (monthly R² 0.968). | Python, DuckDB, FastAPI, React |
 | [**Milogue**](https://github.com/shivenlak/Milogue) | natIgnite 2026: AI mental health companion with a clinician dashboard, shipped to iOS in 40 hours. | React Native, GPT-4o, Whisper |

@@ -25,4 +25,4 @@ Python · C/C++ · TypeScript · ROS2 · Nav2 · Gazebo · OpenCV · YOLO · Med
 
 ### Say hi
 
-📫 shivenlakhanpal@gmail.com · [LinkedIn](https://www.linkedin.com/in/shiven-lakhanpal-665792343/) · https://shivenlakhanpal.vercel.app/
+📫 shivenlakhanpal@gmail.com · [LinkedIn](https://www.linkedin.com/in/shivenlakhanpal/) · https://shivenlakhanpal.vercel.app/
